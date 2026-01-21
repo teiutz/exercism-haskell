@@ -11,9 +11,6 @@ score x y
    
    
 {-
-x,y  -> target
-
 sqrt(x2^2 + y2^2) = radius
 x2 * x2 + y2 * y2 = radius * radius
-
 -}
